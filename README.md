@@ -22,4 +22,4 @@ Assim sendo, o projeto será implementado ao longo de sucessivas iterações, di
 3. **Construção**: Implementação iterativa dos elementos restantes de menor risco e mais fáceis e preparação para implantação.
 4. **Transição**: Testes beta e implantação.
 
-No **Processo Unificado** a escolha das práticas e artefatos para um projeto são escritas em documento denominado **Pasta de Desenvolvimento**, portanto, os planejamentos para a fase de **Concepção** do Projeto podem ser consultadas nele.
+No **Processo Unificado** a escolha das práticas e artefatos para um projeto são escritas em documento denominado **[Pasta de Desenvolvimento](https://github.com/rib-thiago/Documentacao/blob/main/Pasta%20de%20Desenvolvimento.md)**, portanto, os planejamentos para a fase de **Concepção** do Projeto podem ser consultadas nele.
